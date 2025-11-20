@@ -1,0 +1,2 @@
+# Multi-Agent Finance Intelligence System Dependencies
+# No external dependencies required - using only Python standard library
